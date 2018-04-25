@@ -1,0 +1,7 @@
+Intro /Resources/media/Textures/intro.png
+PlayerSprite /Resources/media/Textures/PlayerSheet.png
+RatSprite /Resources/media/Textures/RatSheet.png
+TileSheet /Resources/media/Textures/tilesheet.png
+Bg1 /Resources/media/Textures/bg1.png
+Bg2 /Resources/media/Textures/bg2.png
+Bg3 /Resources/media/Textures/bg3.png
